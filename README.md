@@ -17,8 +17,3 @@
 - Databases:** SQL Server, MySQL  
 - Other Skills: Data analysis storytelling, Business Intelligence  
 
----
-
-## 📂 Featured Projects
-🔹 [Financial Dashboard in Power BI](#) – Interactive dashboard analyzing company KPIs  
-🔹 [Stock Price Analysis with Python](#) – Exploratory data analysis of stock trends
